@@ -1,0 +1,13 @@
+C:\Users\202010961\바탕 화면\backjoon\bin\Debug\netcoreapp3.1\backjoon.exe
+C:\Users\202010961\바탕 화면\backjoon\bin\Debug\netcoreapp3.1\backjoon.deps.json
+C:\Users\202010961\바탕 화면\backjoon\bin\Debug\netcoreapp3.1\backjoon.runtimeconfig.json
+C:\Users\202010961\바탕 화면\backjoon\bin\Debug\netcoreapp3.1\backjoon.runtimeconfig.dev.json
+C:\Users\202010961\바탕 화면\backjoon\bin\Debug\netcoreapp3.1\backjoon.dll
+C:\Users\202010961\바탕 화면\backjoon\bin\Debug\netcoreapp3.1\backjoon.pdb
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.csprojAssemblyReference.cache
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.AssemblyInfoInputs.cache
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.AssemblyInfo.cs
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.csproj.CoreCompileInputs.cache
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.dll
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.pdb
+C:\Users\202010961\바탕 화면\backjoon\obj\Debug\netcoreapp3.1\backjoon.genruntimeconfig.cache
