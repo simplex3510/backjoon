@@ -15,14 +15,12 @@
 
 //             arr[0] = arr[1] = true;
 
-//             for (int i = 2; i * i <= n; i++)
+//             for (int i = 2; i <= n; i++)
 //             {
 //                 if (arr[i] == false)
 //                 {
-//                     for (int j = i * i; j <= n; j += i)
-//                     {
-//                         arr[j] = true;
-//                     }
+//                     for (int j = 2; j * i <= n; j++)
+//                         arr[j * i] = true;
 //                 }
 //             }
 
